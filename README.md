@@ -41,12 +41,13 @@ git clone https://github.com/Kabilan-A-S/PyMaze-game.git
 cd PyMaze-game
 python main.py
 
-
 📁 Project Structure
 
 maze-game/
 PyMaze-game/
+
 │-- main.py
+
 │-- README.md
 
 🧠 Maze Generation Logic
