@@ -32,7 +32,7 @@ pip install pygame
 
 ▶️ How to Run
 
-git clone https://github.com/your-username/maze-game.git
+git clone https://github.com/Kabilan-A-S/PyMaze.git
 cd maze-game
 python main.py
 
@@ -42,6 +42,7 @@ maze-game/
 │-- main.py          # Game source code
 │-- README.md        # Project documentation
 │-- screenshots/     # Add your game screenshots (optional)
+
 
 
 
