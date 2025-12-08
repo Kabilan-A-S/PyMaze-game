@@ -32,16 +32,27 @@ pip install pygame
 
 ▶️ How to Run
 
-git clone https://github.com/Kabilan-A-S/PyMaze.git
-cd maze-game
+git clone https://github.com/Kabilan-A-S/PyMaze-game.git
+cd PyMaze-game
 python main.py
+
 
 📁 Project Structure
 
 maze-game/
-│-- main.py          # Game source code
-│-- README.md        # Project documentation
-│-- screenshots/     # Add your game screenshots (optional)
+PyMaze-game/
+│-- main.py
+│-- README.md
+
+🧠 Maze Generation Logic
+
+This game uses recursive backtracking to create a perfect maze:
+Walls → 1
+Paths → 0
+Player starts at (1, 1)
+Goal located at (rows - 2, cols - 2)
+Each level is generated before the game starts to ensure smooth gameplay.
+
 
 
 
