@@ -12,9 +12,13 @@ Navigate the blue player through the maze and reach the green goal!
 🔹 Perfect Maze Generation using recursive backtracking
 
 🔹 5 Levels, each pre-generated at the start
+
 🔹 Smooth Player Movement (WASD / Arrow Keys)
+
 🔹 Level Completion Screen
+
 🔹 Automatic Level Load & Restart
+
 🔹 Simple, fast, and fully offline
 
 🎮 Controls
@@ -48,10 +52,15 @@ PyMaze-game/
 🧠 Maze Generation Logic
 
 This game uses recursive backtracking to create a perfect maze:
+
 Walls → 1
+
 Paths → 0
+
 Player starts at (1, 1)
+
 Goal located at (rows - 2, cols - 2)
+
 Each level is generated before the game starts to ensure smooth gameplay.
 
 
