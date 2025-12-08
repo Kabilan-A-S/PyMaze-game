@@ -10,6 +10,7 @@ Navigate the blue player through the maze and reach the green goal!
 🚀 Features
 
 🔹 Perfect Maze Generation using recursive backtracking
+
 🔹 5 Levels, each pre-generated at the start
 🔹 Smooth Player Movement (WASD / Arrow Keys)
 🔹 Level Completion Screen
